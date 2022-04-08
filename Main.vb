@@ -6,7 +6,7 @@ Public Class Main
 
     Public Sub Create(ByRef Parent As iMainForm) Implements iInterfacePlugIn.Create
         Me.Parent = Parent
-        Dim menu As System.Windows.Forms.Menu = Me.Parent.Menu
+        'Dim menu As System.Windows.Forms.Menu = Me.Parent.Menu
         With Parent
             '.ToolsToolStripMenuItem.DropDownItems.Add("Browser", New System.Drawing.Bitmap(16, 16), New System.EventHandler(AddressOf Me.OnClick)).MergeIndex = 0
         End With
