@@ -85,6 +85,6 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
-    <PackageReference Include="SkyCD.Core.dll" Version="0.1.1" />
+    <PackageReference Include="SkyCD.Core.dll" Version="0.3.0" />
   </ItemGroup>
 </Project>
